@@ -13,6 +13,11 @@ conda env create -f environment.yaml
 conda activate arcgis
 ```
 
+To enable environment in jupyter notebooks:
+```sh
+python -m ipykernel install --user --name=arcgis
+```
+
 To enable arcgis notebook extension:
 ```sh
 jupyter nbextension enable arcgis --py --sys-prefix
