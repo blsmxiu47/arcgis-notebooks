@@ -1,5 +1,7 @@
 name: arcgis
 channels:
   - esri
+  - conda-forge
 dependencies:
   - arcgis
+  - python-dotenv
