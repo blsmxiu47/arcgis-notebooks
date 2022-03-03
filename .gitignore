@@ -1,6 +1,7 @@
 .ipynb_checkpoints/
 .env
 
+local_intermediates/
 local_environment.yaml
 arcgis_venv/
 
