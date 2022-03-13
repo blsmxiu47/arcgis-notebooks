@@ -6,3 +6,4 @@ local_environment.yaml
 arcgis_venv/
 
 raw_data/
+downloads/
